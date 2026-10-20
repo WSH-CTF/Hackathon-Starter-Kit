@@ -1,0 +1,12 @@
+[
+  { "id": 1, "timestamp": "2026-09-05T09:00:01Z", "srcIp": "192.168.1.10", "destIp": "10.0.0.5", "destPort": 443, "protocol": "TCP", "bytes": 2048 },
+  { "id": 2, "timestamp": "2026-09-05T09:00:02Z", "srcIp": "192.168.1.14", "destIp": "10.0.0.5", "destPort": 22, "protocol": "TCP", "bytes": 512 },
+  { "id": 3, "timestamp": "2026-09-05T09:00:02Z", "srcIp": "203.0.113.55", "destIp": "10.0.0.5", "destPort": 22, "protocol": "TCP", "bytes": 64 },
+  { "id": 4, "timestamp": "2026-09-05T09:00:03Z", "srcIp": "203.0.113.55", "destIp": "10.0.0.5", "destPort": 23, "protocol": "TCP", "bytes": 64 },
+  { "id": 5, "timestamp": "2026-09-05T09:00:03Z", "srcIp": "203.0.113.55", "destIp": "10.0.0.5", "destPort": 3389, "protocol": "TCP", "bytes": 64 },
+  { "id": 6, "timestamp": "2026-09-05T09:00:04Z", "srcIp": "203.0.113.55", "destIp": "10.0.0.5", "destPort": 21, "protocol": "TCP", "bytes": 64 },
+  { "id": 7, "timestamp": "2026-09-05T09:00:04Z", "srcIp": "203.0.113.55", "destIp": "10.0.0.5", "destPort": 80, "protocol": "TCP", "bytes": 64 },
+  { "id": 8, "timestamp": "2026-09-05T09:00:05Z", "srcIp": "192.168.1.22", "destIp": "10.0.0.5", "destPort": 443, "protocol": "TCP", "bytes": 4096 },
+  { "id": 9, "timestamp": "2026-09-05T09:00:06Z", "srcIp": "198.51.100.7", "destIp": "10.0.0.5", "destPort": 445, "protocol": "TCP", "bytes": 128 },
+  { "id": 10, "timestamp": "2026-09-05T09:00:07Z", "srcIp": "192.168.1.10", "destIp": "10.0.0.5", "destPort": 53, "protocol": "UDP", "bytes": 256 }
+]
