@@ -1,4 +1,4 @@
-# 🛡️ [School Name] Cybersecurity Hackathon — Starter Kit
+# 🛡️ WSH'26 — Starter Kit
 
 Welcome! This repo is your launchpad. Fork/clone it, fill in your `.env`, and start building.
 You do **not** have to use this stack — it's here so beginner teams have something working
@@ -117,4 +117,4 @@ See `RULES.md` for what's in and out of scope before you start — all of the ab
 run against **sample/synthetic data or apps you build yourselves**, never real school or
 third-party networks.
 
-Good luck — build something you're proud to demo! 🚀
+Good luck — build something you're proud to pitch! 🚀
